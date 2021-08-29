@@ -77,6 +77,7 @@
                 android:text="Forgot Password?" />
 
             <Button
+                style="@style/Widget.AppCompat.Button.Colored"
                 android:id="@+id/loginbtn"
                 android:layout_width="150dp"
                 android:layout_height="40dp"
@@ -87,6 +88,7 @@
                 android:textColor="@android:color/white" />
 
             <Button
+                style="@style/Widget.AppCompat.Button.Colored"
                 android:id="@+id/createBtn"
                 android:layout_width="match_parent"
                 android:layout_height="40dp"
